@@ -1,5 +1,7 @@
 # SEUCM Anchor Tool 640x480
 
+![GUI Screenshot](gui_screenshot.png)
+
 一个用于鱼眼视频去畸变和视角调整的小工具，带本地 GUI。
 
 支持的调整参数：
@@ -75,10 +77,6 @@ python3 render_video_seucm_params.py \
   "output_height": 480
 }
 ```
-
-## 界面截图
-
-![GUI Screenshot](gui_screenshot.png)
 
 ## 补充说明
 
